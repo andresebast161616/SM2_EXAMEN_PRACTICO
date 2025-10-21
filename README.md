@@ -30,19 +30,20 @@ para saber cuándo y desde qué dispositivo accedí a mi cuenta.
 
 • **Actualización en tiempo real**: Uso de StreamBuilder para mostrar nuevas sesiones automáticamente sin necesidad de refrescar la pantalla.
 
-## 8. Capturas de imágenes del APP como evidencia de las funcionalidades implementar:
+## 8. Capturas de imágenes del APP como evidencia de las funcionalidades implementadas:
 
-Primero creamos nuestro índice, en mi caso con el nombre de "historial_sesiones_exaFloresM"
+Primero creamos nuestro índice, en mi caso con el nombre de "historial_sesiones_exaFloresM":
 
-![Primero creamos nuestro índice, en mi caso con el nombre de "historial_sesiones_exaFloresM](capturas/1.png)
+![Primero creamos nuestro índice, en mi caso con el nombre de "historial_sesiones_exaFloresM"](./capturas/1.png)
 
-Después veremos que se a creado un campo con este nombre también en la base de datos, después crearemos nuestro archivos .dart para la funcionalidad que harán referencia a este campo
+Después veremos que se ha creado un campo con este nombre también en la base de datos; después crearemos nuestros archivos `.dart` para la funcionalidad que harán referencia a este campo:
 
-![Después veremos que se a creado un campo con este nombre también en la base de datos, después crearemos nuestro archivos .dart para la funcionalidad que harán referencia a este campo](capturas/2.png)
+![Después veremos que se ha creado un campo con este nombre también en la base de datos, después crearemos nuestros archivos .dart para la funcionalidad que harán referencia a este campo](./capturas/2.png)
 
-Ejecutamos nuestra aplicación paso a paso (iniciamos sesión, nos dirigimos al apartado de mi perfil, después a la parte de "historial de inicios de sesion" y ahí veremos el historial de sesiones registradas)
+Ejecutamos nuestra aplicación paso a paso (iniciamos sesión, nos dirigimos al apartado de mi perfil, después a la parte de "historial de inicios de sesión", y ahí veremos el historial de sesiones registradas):
 
-![Ejecutamos nuestra aplicación paso a paso](capturas/3.png)
+![Ejecutamos nuestra aplicación paso a paso](./capturas/3.png)
 
-registros en la base de datos:
-![registros en la base de datos:"](capturas/4.png)
+Registros en la base de datos:
+
+![Registros en la base de datos](./capturas/4.png)
